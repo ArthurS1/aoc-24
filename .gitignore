@@ -1,0 +1,6 @@
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
+.bsp/
+target/
